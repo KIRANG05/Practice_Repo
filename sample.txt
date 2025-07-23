@@ -3,3 +3,4 @@ Java ia a Object Oriented Programming Language
 Git is a version control system
 Git bash is like command prompt
 
+debugging is easy
