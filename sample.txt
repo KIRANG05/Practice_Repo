@@ -5,3 +5,6 @@ Git bash is like command prompt
 
 debugging is easy
 coding is easy
+web technology
+
+
